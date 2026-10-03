@@ -1,6 +1,6 @@
 ---
 title: Privacy Policy
-permalink: /privacy/
+permalink: /essence-agency/privacy/
 ---
 
 # Privacy Policy
